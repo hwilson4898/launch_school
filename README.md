@@ -1,4 +1,5 @@
 # README #
+<<<<<<< HEAD
 # learning git 
 important steps for git workflow
 
@@ -8,3 +9,6 @@ important steps for git workflow
 4. stage changes for commit
 5. commit changes to version history
 6. view previous changes with git log 
+=======
+I have made a change here. Howdy!
+>>>>>>> refs/remotes/origin/main
