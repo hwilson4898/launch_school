@@ -3,3 +3,7 @@ def repeat(a,b)
 end 
 
 repeat("hello", 3)
+
+def is_odd(num)
+  puts num.odd?
+end 
